@@ -14,7 +14,7 @@ npm install angular-mouse-textbox --save
 **Step 2:** Import angular-mouse-textbox module into your app module
 ```ts
 ....
-import {MouseTextboxAngularModule} from "angular-mouse-textbox";
+import {AngularMouseTextboxModule} from 'angular-mouse-textbox';
 
 ....
 
@@ -22,7 +22,7 @@ import {MouseTextboxAngularModule} from "angular-mouse-textbox";
   ....
   imports: [
     ....
-    MouseTextboxAngularModule,  
+    AngularMouseTextboxModule,  
   ],
   ....
 

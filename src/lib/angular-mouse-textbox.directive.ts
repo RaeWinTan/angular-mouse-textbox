@@ -38,7 +38,7 @@ export class AngularMouseTextboxDirective {
 
 
   constructor(private el:ElementRef, private renderer: Renderer2 ) {
-    console.log("helwwoil");
+  
   }
 
 }
