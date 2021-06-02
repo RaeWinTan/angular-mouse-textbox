@@ -1,6 +1,6 @@
 {
   "name": "angular-mouse-textbox",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description":"A directive which allows text to appear beside the cursor when the directive is activated",
   "author":"Tan Rae-Win",
   "repository":{
