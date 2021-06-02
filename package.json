@@ -1,0 +1,31 @@
+{
+  "name": "angular-mouse-textbox",
+  "version": "1.0.1",
+  "description":"A directive which allows text to appear beside the cursor when the directive is activated",
+  "author":"Tan Rae-Win",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/RaeWinTan/angular-mouse-textbox.git"
+  },
+  "bugs":{
+    "url":"https://github.com/RaeWinTan/angular-mouse-textbox/issues"
+  },
+  "homepage":"https://github.com/RaeWinTan/angular-mouse-textbox",
+  "keywords":[
+    "angular",
+    "mouse options",
+    "mouse",
+    "textbox",
+    "hover textbox",
+    "mouse textbox",
+    "directive"
+  ],
+  "license":"MIT",
+  "peerDependencies": {
+    "@angular/common": "^11.2.12",
+    "@angular/core": "^11.2.12"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
