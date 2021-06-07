@@ -4,7 +4,12 @@ An angular 11.0+ directive that puts a textbox beside the cursor.
 
 ## Demo
 https://raewintan.github.io/angular-mouse-textbox-demo/
+<<<<<<< HEAD
 ##Usage
+=======
+
+## Usage
+>>>>>>> c215e754fe117bf7c4dd80bea500bd1b0ad69077
 
 **Step 1:** Install angular-mouse-textbox
 
